@@ -1,0 +1,5 @@
+Symbol Table 
+X	214
+L1	202
+NEXT	207
+BACK	202
